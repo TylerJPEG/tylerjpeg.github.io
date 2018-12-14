@@ -237,6 +237,10 @@ section.inner {
   line-height: 24px;
 }
 
+.resume-download {
+  margin-top: 40px;
+}
+
 @media(min-width:768px) {
 
     .resume-p {
@@ -1266,7 +1270,7 @@ section.work-shots {
     padding-top: 25px;
   }
   .social-icon {
-    padding: 6px;
+    padding: 8px;
     font-size: 12px;
     margin: 0 3px 5px 0;
   }
@@ -1276,6 +1280,7 @@ section.work-shots {
     height: 12px;
     font-size: 12px;
     line-height: 12px;
+    margin-left: 1px;
   }
 
   .about .profile-pic {
