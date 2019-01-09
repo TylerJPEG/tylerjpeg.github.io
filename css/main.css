@@ -220,7 +220,7 @@ section.inner {
 
 .resume-skill-list li {
     display: inline-block;
-    background-color: #21d08f;
+    border: 1px solid #21d08f;
     padding: 5px 15px;
     -webkit-border-radius: 100px;
     -moz-border-radius: 100px;
@@ -228,7 +228,7 @@ section.inner {
     font-size: 12px;
     margin-right: 1px;
     margin-bottom: 5px;
-    color: #fff;
+    color: #464956;
 }
 
 .resume-list {
@@ -291,6 +291,7 @@ section.inner {
         margin-right: 0;
         margin-bottom: 0;
         color: #707c78;
+        border: 0;
     }
 
 }
