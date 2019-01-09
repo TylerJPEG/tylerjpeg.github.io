@@ -584,9 +584,6 @@ header .intro ul li {
   margin-top: 5px;
 }
 
-header .intro ul li:nth-child(1), header .intro ul li:nth-child(2), header .intro ul li:nth-child(3), header .intro ul li:nth-child(4){
-  opacity: 1.0;
-}
 
 header .intro .btn-intro {
   font-size: 13px;
@@ -598,7 +595,7 @@ header .intro .btn-intro {
   border-radius: 1px;
   text-transform: uppercase;
   font-family: 'Lato','Helvetica Neue',Arial,sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   margin-top: 30px;
   letter-spacing: 0.9px;
   padding: 15px;
@@ -634,6 +631,7 @@ header .intro .btn-intro:hover, header .intro .btn-intro:focus, header .intro .b
     }
     header .intro ul li {
       margin-top: 10px;
+      font-weight: 100;
     }
     header .intro .btn-intro {
       font-size: 22px;
@@ -641,6 +639,7 @@ header .intro .btn-intro:hover, header .intro .btn-intro:focus, header .intro .b
       padding: 20px 70px;
       width: auto;
       margin-bottom: 15px;
+      font-weight: 300;
     }
 }
 
