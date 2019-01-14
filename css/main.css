@@ -988,6 +988,36 @@ section.work {
 
 section.work-shots {
     padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+section.work-shots.springserve {
+  background: #44526b;
+  margin-top: 65px;
+}
+
+section.work-shots.springserve-2 {
+  background: #ec2059;
+}
+
+section.work-shots.client-portal {
+  background: #512c8e
+}
+
+section.work-shots.pivit {
+  background: #56bdf0;
+}
+
+section.work-shots.pivit-2 {
+  background: #032d3d;
+}
+
+section.work-shots.control-tower {
+  background: #21d08f;
+}
+
+section.work-shots.demand-desk {
+  background: #44526b;
 }
 
 /*ipad*/
@@ -1116,7 +1146,7 @@ section.work-shots {
     -webkit-border-radius: 6px;
     -moz-border-radius: 6px;
     border-radius: 6px;
-    box-shadow: 0px 0px 3px 2px #efefef;
+    box-shadow: 0 1px 9px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.16);
     width: 100%;
 }
 .browser img {
