@@ -916,7 +916,7 @@ section.work-shots.springserve {
   background: -webkit-linear-gradient(top, #44526b 0%,#293141 100%); /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(to bottom, #44526b 0%,#293141 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#44526b', endColorstr='#293141',GradientType=0 ); /* IE6-9 */
-  margin-top: 65px;
+  margin-top: 60px;
 }
 
 section.work-shots.springserve-2 {
@@ -1002,6 +1002,10 @@ section.work-shots.demand-desk {
     height: auto;
 }
 @media(min-width:768px) {
+  section.work-shots.springserve {
+
+  margin-top: 80px;
+}
     .ipad {
         padding-bottom: 50%;
     }
