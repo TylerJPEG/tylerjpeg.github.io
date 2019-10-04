@@ -919,6 +919,14 @@ section.work-shots.springserve {
   margin-top: 60px;
 }
 
+section.work-shots.epic-games {
+  background: #0278f2; /* Old browsers */
+  background: -moz-linear-gradient(top, #0278f2 0%, #1041af 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #0278f2 0%,#1041af 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #0278f2 0%,#1041af 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0278f2', endColorstr='#1041af',GradientType=0 ); /* IE6-9 */
+}
+
 section.work-shots.springserve-2 {
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ec2059+0,d21874+100 */
 background: #ec2059; /* Old browsers */
