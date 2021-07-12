@@ -139,6 +139,11 @@ section.inner {
   padding: 80px 0 130px;
 }
 
+#about .lead-group > .lead:first-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
 /*RESUME*/
 .resume-name {
     margin-bottom: 10px;
